@@ -1,0 +1,23 @@
+{
+  "name": "Gym App La Paz",
+  "short_name": "Gym App",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#05070c",
+  "theme_color": "#00d4ff",
+  "description": "Progressive Web App demo para gimnasios en La Paz, B.C.S.",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
